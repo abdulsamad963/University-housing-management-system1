@@ -1,0 +1,6 @@
+<?php
+    $fullname='nawar shabook';
+
+  
+
+?>
